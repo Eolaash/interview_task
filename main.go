@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Prj1/interview_task"
+import "github.com/interview_task/interview_task"
 
 func main() {
 	tEndNum := 20
