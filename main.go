@@ -3,7 +3,7 @@ package main
 import "github.com/interview_task/interview_task"
 
 func main() {
-	tEndNum := 20
+	tEndNum := 100
 	tNumbers := make([]int, tEndNum, tEndNum)
 
 	// Generate array
